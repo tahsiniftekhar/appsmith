@@ -1,0 +1,20 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#E3DEFF",
+  "slug": "geodrill-lcoe",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1646891603,
+    "nanos": 309000000
+  },
+  "deleted": false
+}
